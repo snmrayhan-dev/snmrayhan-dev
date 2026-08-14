@@ -1,87 +1,123 @@
-<div align="center">
-
-<!-- Typing SVG Header -->
-<a href="https://github.com/snmrayhan-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=61AFEF&center=true&vCenter=true&width=560&lines=Hi+there+%F0%9F%91%8B%2C+I'm+S+N+M+Rayhan;Software+Engineer+%26+Problem+Solver;Building+Scalable+Web+%26+Software+Systems;Passionate+About+Clean+Code+%26+Architecture;Lifelong+Learner+%26+Tech+Explorer" alt="Typing SVG" />
-</a>
-
+<!-- Header Wave Banner -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=snmrayhan-dev&label=Profile%20Views&color=61afef&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Building_%26_Learning-brightgreen?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack_Engineering-blue?style=flat-square" alt="Focus" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=220&section=header&text=S%20N%20M%20Rayhan&fontSize=48&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" alt="Header" />
 </p>
 
+<!-- Dynamic Typing SVG Headline -->
+<div align="center">
+  <a href="https://github.com/snmrayhan-dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=61AFEF&center=true&vCenter=true&width=580&lines=Hi+there+%F0%9F%91%8B%2C+I'm+S+N+M+Rayhan;Software+Engineer+%26+Problem+Solver;Building+Scalable+Web+%26+Cloud+Solutions;Architecting+Clean%2C+High-Performance+Code;Always+Exploring+Modern+Tech+Stacks" alt="Typing SVG" />
+  </a>
+  <br />
+
+  <!-- Metric Badges -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=snmrayhan-dev&label=Profile%20Views&color=61afef&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Experience-Software_Engineering-blue?style=flat-square" alt="Experience" />
+    <img src="https://img.shields.io/badge/Open_To-Collaborations_%26_Opportunities-brightgreen?style=flat-square" alt="Opportunities" />
+  </p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🌟 About Me & Engineering Vision
 
 <table>
   <tr>
     <td width="58%" valign="top">
       <br />
+      <p>Hello! I am a passionate <b>Software Engineer</b> dedicated to building clean, scalable, and high-performance software systems. I thrive at the intersection of modern frontend elegance and powerful backend architecture.</p>
+      
       <ul>
-        <li>🔭 <b>Focus:</b> Designing and building robust, scalable web applications and software solutions.</li>
-        <li>💡 <b>Interests:</b> Full-Stack Development, Distributed Architecture, System Design, and Modern Cloud Tech.</li>
-        <li>🌱 <b>Currently Mastering:</b> Advanced TypeScript patterns, Next.js architecture, and Performance Optimization.</li>
-        <li>⚡ <b>Philosophy:</b> <i>"Simplicity, readability, and continuous incremental improvement."</i></li>
-        <li>📫 <b>Get in Touch:</b> Always excited to collaborate on innovative open-source projects!</li>
+        <li>🔭 <b>Current Focus:</b> Designing full-stack web applications and micro-architectures.</li>
+        <li>💡 <b>Core Philosophy:</b> Writing readable, maintainable code that solves real-world problems.</li>
+        <li>🌱 <b>Exploring:</b> Scalable backend patterns, TypeScript ecosystems, and cloud-native solutions.</li>
+        <li>⚡ <b>Hobbies:</b> Tech blogging, exploring open-source tools, and experimenting with UI/UX.</li>
+        <li>📫 <b>Reach Out:</b> Always open for discussions, code reviews, and networking!</li>
       </ul>
     </td>
     <td width="42%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="360" alt="Coding GIF" style="border-radius: 8px;" />
+      <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="370" alt="Coding Animation" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Languages, Tools & Technologies
+### 🎯 Core Competencies
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Full-Stack Web Development</h4>
+      <p>Building responsive, accessible, and high-speed web apps with modern frameworks and component-driven architecture.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & API Architecture</h4>
+      <p>Designing RESTful endpoints, data validation layers, authentication flows, and reliable database schemas.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🗄️ Database Management</h4>
+      <p>Structuring relational and NoSQL databases with query optimization, indexing, and data integrity in mind.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 Version Control & DevOps</h4>
+      <p>Adhering to Git workflows, CI/CD automated pipelines, and standard containerized development practices.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Comprehensive Tech Stack & Toolkit
 
 <div align="center">
 
-#### 💻 Languages & Fundamentals
+#### 💻 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c,html,css" alt="Languages" />
+  </a>
 </p>
 
-#### ⚛️ Frameworks, Libraries & Runtime
+#### ⚛️ Frameworks, Libraries & Runtimes
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,redux" alt="Frameworks" />
+  </a>
 </p>
 
-#### 🗄️ Databases & Storage
+#### 🗄️ Databases, Cloud & Storage
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase" alt="Databases" />
+  </a>
 </p>
 
-#### 🧰 DevOps, Tools & Workflow
+#### 🧰 Developer Tools & Environments
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,npm,figma" alt="Tools" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### 🏆 GitHub Trophies & Milestones
+
+<p align="center">
+  <a href="https://github.com/snmrayhan-dev">
+    <img src="https://github-profile-trophy.vercel.app/?username=snmrayhan-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+### 📊 Live Analytics & Statistics
 
 <div align="center">
 
@@ -104,13 +140,21 @@
 
 <p>
   <a href="https://github.com/snmrayhan-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:snmrayhan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-<p><i>⭐️ From <a href="https://github.com/snmrayhan-dev">S N M Rayhan</a> - Keep coding, keep creating!</i></p>
+<p><i>💡 "The only way to do great work is to love what you do."</i></p>
 
 </div>
+
+<!-- Footer Wave Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer" width="100%" alt="Footer" />
+</p>
