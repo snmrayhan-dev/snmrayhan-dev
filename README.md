@@ -36,6 +36,15 @@ Hello! I am a passionate **Software Engineer** dedicated to building clean, scal
 
 ---
 
+### 🚀 Featured & Open Source Projects
+
+| 🎁 Project | 🌟 Stars | 🍴 Forks | 🔔 Issues | 📬 Pull Requests |
+| :--- | :---: | :---: | :---: | :---: |
+| [**Portfolio Profile README**](https://github.com/snmrayhan-dev/snmrayhan-dev) | ![Stars](https://img.shields.io/github/stars/snmrayhan-dev/snmrayhan-dev?style=flat-square&color=007ec6) | ![Forks](https://img.shields.io/github/forks/snmrayhan-dev/snmrayhan-dev?style=flat-square&color=007ec6) | ![Issues](https://img.shields.io/github/issues/snmrayhan-dev/snmrayhan-dev?style=flat-square&color=2ea44f) | ![PRs](https://img.shields.io/github/issues-pr/snmrayhan-dev/snmrayhan-dev?style=flat-square&color=e36209) |
+| [**Badge Unlocker Tool**](https://github.com/snmrayhan-dev/badge-unlocker) | ![Stars](https://img.shields.io/github/stars/snmrayhan-dev/badge-unlocker?style=flat-square&color=007ec6) | ![Forks](https://img.shields.io/github/forks/snmrayhan-dev/badge-unlocker?style=flat-square&color=007ec6) | ![Issues](https://img.shields.io/github/issues/snmrayhan-dev/badge-unlocker?style=flat-square&color=2ea44f) | ![PRs](https://img.shields.io/github/issues-pr/snmrayhan-dev/badge-unlocker?style=flat-square&color=e36209) |
+
+---
+
 ### 🎯 Core Competencies
 
 <table>
@@ -114,30 +123,11 @@ Hello! I am a passionate **Software Engineer** dedicated to building clean, scal
 
 ---
 
-### 🏆 GitHub Trophies & Milestones
+### 📈 GitHub Contribution Streak
 
 <p align="center">
-  <a href="https://github.com/snmrayhan-dev">
-    <img src="https://github-profile-trophy.vercel.app/?username=snmrayhan-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snmrayhan-dev&theme=tokyonight&hide_border=true&stroke=61afef&background=1e222a&ring=61afef&fire=e06c75&currStreakLabel=61afef" height="190" alt="GitHub Streak" />
 </p>
-
----
-
-### 📊 Live Analytics & Statistics
-
-<div align="center">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snmrayhan-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=61afef&icon_color=98c379&text_color=abb2bf&bg_color=1e222a" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snmrayhan-dev&theme=tokyonight&hide_border=true&stroke=61afef&background=1e222a&ring=61afef&fire=e06c75&currStreakLabel=61afef" height="175" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snmrayhan-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=61afef&text_color=abb2bf&bg_color=1e222a" height="165" alt="Top Languages" />
-</p>
-
-</div>
 
 ---
 
