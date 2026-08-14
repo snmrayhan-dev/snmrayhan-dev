@@ -22,51 +22,43 @@
 
 ### 🌟 About Me & Engineering Vision
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <br />
-      <p>Hello! I am a passionate <b>Software Engineer</b> dedicated to building clean, scalable, and high-performance software systems. I thrive at the intersection of modern frontend elegance and powerful backend architecture.</p>
-      
-      <ul>
-        <li>🔭 <b>Current Focus:</b> Designing full-stack web applications and micro-architectures.</li>
-        <li>💡 <b>Core Philosophy:</b> Writing readable, maintainable code that solves real-world problems.</li>
-        <li>🌱 <b>Exploring:</b> Scalable backend patterns, TypeScript ecosystems, and cloud-native solutions.</li>
-        <li>⚡ <b>Hobbies:</b> Tech blogging, exploring open-source tools, and experimenting with UI/UX.</li>
-        <li>📫 <b>Reach Out:</b> Always open for discussions, code reviews, and networking!</li>
-      </ul>
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="370" alt="Coding Animation" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
-    </td>
-  </tr>
-</table>
+<img align="right" width="360" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coding Animation" />
+
+Hello! I am a passionate **Software Engineer** dedicated to building clean, scalable, and high-performance software systems. I thrive at the intersection of modern frontend elegance and powerful backend architecture.
+
+- 🔭 **Current Focus:** Designing full-stack web applications and micro-architectures.
+- 💡 **Core Philosophy:** Writing readable, maintainable code that solves real-world problems.
+- 🌱 **Exploring:** Scalable backend patterns, TypeScript ecosystems, and cloud-native solutions.
+- ⚡ **Hobbies:** Tech blogging, exploring open-source tools, and experimenting with UI/UX.
+- 📫 **Reach Out:** Always open for discussions, code reviews, and networking!
+
+<br clear="right" />
 
 ---
 
 ### 🎯 Core Competencies
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 Full-Stack Web Development</h4>
-      <p>Building responsive, accessible, and high-speed web apps with modern frameworks and component-driven architecture.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Backend & API Architecture</h4>
-      <p>Designing RESTful endpoints, data validation layers, authentication flows, and reliable database schemas.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🗄️ Database Management</h4>
-      <p>Structuring relational and NoSQL databases with query optimization, indexing, and data integrity in mind.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🚀 Version Control & DevOps</h4>
-      <p>Adhering to Git workflows, CI/CD automated pipelines, and standard containerized development practices.</p>
-    </td>
-  </tr>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h4>🌐 Full-Stack Web Development</h4>
+<p>Building responsive, accessible, and high-speed web apps with modern frameworks and component-driven architecture.</p>
+</td>
+<td width="50%" valign="top">
+<h4>⚙️ Backend & API Architecture</h4>
+<p>Designing RESTful endpoints, data validation layers, authentication flows, and reliable database schemas.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>🗄️ Database Management</h4>
+<p>Structuring relational and NoSQL databases with query optimization, indexing, and data integrity in mind.</p>
+</td>
+<td width="50%" valign="top">
+<h4>🚀 Version Control & DevOps</h4>
+<p>Adhering to Git workflows, CI/CD automated pipelines, and standard containerized development practices.</p>
+</td>
+</tr>
 </table>
 
 ---
