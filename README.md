@@ -125,11 +125,23 @@ Hello! I am a passionate **Software Engineer** dedicated to building clean, scal
 
 ---
 
-### 📈 GitHub Contribution Streak
+### 🔥 GitHub Live Activity & Contribution Streak
+
+<div align="center">
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snmrayhan-dev&theme=tokyonight&hide_border=true&stroke=61afef&background=1e222a&ring=61afef&fire=e06c75&currStreakLabel=61afef" height="190" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Streak_Status-Active_🔥-FF5E7E?style=for-the-badge&logo=github&logoColor=white" alt="Active Streak" />
+  <img src="https://img.shields.io/badge/Contributions-Consistent-00F5D4?style=for-the-badge&logo=git&logoColor=black" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Workflow-Automated-61AFEF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Workflow" />
 </p>
+
+<a href="https://github.com/snmrayhan-dev">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snmrayhan-dev&theme=tokyonight&hide_border=true&stroke=61afef&background=1e222a&ring=00F5D4&fire=FF5E7E&currStreakLabel=00F5D4&sideLabels=61AFEF&sideNums=ffffff&dates=8892b0" height="195" alt="GitHub Streak" />
+</a>
+
+<p><i>⚡ "Consistency is the DNA of mastery."</i></p>
+
+</div>
 
 ---
 
