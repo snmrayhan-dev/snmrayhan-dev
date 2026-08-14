@@ -85,7 +85,7 @@ Hello! I am a passionate **Software Engineer** dedicated to building clean, scal
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
@@ -125,10 +125,18 @@ Hello! I am a passionate **Software Engineer** dedicated to building clean, scal
 
 ---
 
-### 📈 GitHub Contribution Streak
+### 📈 GitHub Contribution Streak & Activity Wave
+
+<div align="center">
+  <a href="https://github.com/snmrayhan-dev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=snmrayhan-dev&theme=tokyonight&hide_border=true&stroke=61afef&background=1e222a&ring=61afef&fire=e06c75&currStreakLabel=61afef" height="195" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br />
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snmrayhan-dev&theme=tokyonight&hide_border=true&stroke=61afef&background=1e222a&ring=61afef&fire=e06c75&currStreakLabel=61afef" height="195" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snmrayhan-dev&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </p>
 
 ---
