@@ -125,11 +125,38 @@ Hello! I am a passionate **Software Engineer** dedicated to building clean, scal
 
 ---
 
-### 📈 GitHub Contribution Streak
+### 🔥 Live GitHub Activity & Streak Tracker
+
+<div align="center">
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snmrayhan-dev&theme=tokyonight&hide_border=true&stroke=61afef&background=1e222a&ring=61afef&fire=e06c75&currStreakLabel=61afef" height="190" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Daily_Streak-Active_🔥-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="Streak" />
+  <img src="https://img.shields.io/badge/Consistency-100%25_Daily_Active-00D2FF?style=for-the-badge&logo=gitkraken&logoColor=black" alt="Consistency" />
+  <img src="https://img.shields.io/badge/Commit_Velocity-High-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="Velocity" />
 </p>
+
+<table>
+  <tr>
+    <td width="46%" valign="middle">
+      <h4>⚡ Engineering Consistency</h4>
+      <ul>
+        <li>🔥 <b>Daily Commitment:</b> Actively building, refining, and deploying code.</li>
+        <li>📈 <b>Velocity:</b> Focused on regular commits, pull requests, and CI/CD cycles.</li>
+        <li>🏆 <b>Achievements:</b> <code>YOLO</code>, <code>Quickdraw</code> & <code>Pull Shark</code> unlocked.</li>
+        <li>🎯 <b>Goal:</b> Unbroken coding streak & continuous technical mastery.</li>
+      </ul>
+    </td>
+    <td width="54%" align="center" valign="middle">
+      <a href="https://github.com/snmrayhan-dev">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=snmrayhan-dev&theme=tokyonight&hide_border=true&stroke=61afef&background=1e222a&ring=61afef&fire=e06c75&currStreakLabel=61afef" height="195" alt="GitHub Streak" style="border-radius: 8px;" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p><i>💡 "We are what we repeatedly do. Excellence, then, is not an act, but a habit."</i></p>
+
+</div>
 
 ---
 
@@ -149,7 +176,7 @@ Hello! I am a passionate **Software Engineer** dedicated to building clean, scal
   </a>
 </p>
 
-<p><i>💡 "The only way to do great work is to love what you do."</i></p>
+<p><i>⭐️ From <a href="https://github.com/snmrayhan-dev">S N M Rayhan</a> - Keep coding, keep creating!</i></p>
 
 </div>
 
