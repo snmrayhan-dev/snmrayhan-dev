@@ -125,37 +125,10 @@ Hello! I am a passionate **Software Engineer** dedicated to building clean, scal
 
 ---
 
-### 🔥 Live GitHub Activity & Streak Tracker
-
-<div align="center">
-  <img src="https://img.shields.io/badge/DAILY_STREAK-ACTIVE_🔥-FF5E7E?style=for-the-badge&logo=github&logoColor=white" alt="Daily Streak" />
-  <img src="https://img.shields.io/badge/CONSISTENCY-100%25_DAILY_ACTIVE-00F5D4?style=for-the-badge&logo=git&logoColor=black" alt="Consistency" />
-  <img src="https://img.shields.io/badge/COMMIT_VELOCITY-HIGH-61AFEF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Commit Velocity" />
-</div>
-
-<br />
-
-<table>
-<tr>
-<td width="52%" valign="middle">
-<h4>⚡ Engineering Consistency</h4>
-<p>
-• 🔥 <b>Daily Commitment:</b> Actively building, refining, and deploying clean code.<br />
-• 📈 <b>Velocity:</b> Focused on continuous commits, pull requests, and CI/CD pipelines.<br />
-• 🏆 <b>Achievements:</b> <code>YOLO</code>, <code>Quickdraw</code> & <code>Pull Shark</code> unlocked.<br />
-• 🎯 <b>Goal:</b> Unbroken coding streak & continuous technical mastery.
-</p>
-</td>
-<td width="48%" align="center" valign="middle">
-<a href="https://github.com/snmrayhan-dev">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=snmrayhan-dev&theme=tokyonight&hide_border=true&stroke=61afef&background=1e222a&ring=61afef&fire=e06c75&currStreakLabel=61afef" width="100%" alt="GitHub Streak" />
-</a>
-</td>
-</tr>
-</table>
+### 📈 GitHub Contribution Streak
 
 <p align="center">
-  <i>💡 "We are what we repeatedly do. Excellence, then, is not an act, but a habit."</i>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snmrayhan-dev&theme=tokyonight&hide_border=true&stroke=61afef&background=1e222a&ring=61afef&fire=e06c75&currStreakLabel=61afef" height="195" alt="GitHub Streak" />
 </p>
 
 ---
