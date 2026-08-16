@@ -6,13 +6,13 @@
 <!-- Dynamic Typing SVG Headline -->
 <div align="center">
   <a href="https://github.com/snmrayhan-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=0969DA&center=true&vCenter=true&width=580&lines=Hi+there+%F0%9F%91%8B%2C+I'm+S+N+M+Rayhan;Software+Engineer+%26+Problem+Solver;Building+Scalable+Web+%26+Cloud+Solutions;Architecting+Clean%2C+High-Performance+Code;Always+Exploring+Modern+Tech+Stacks" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=61AFEF&center=true&vCenter=true&width=580&lines=Hi+there+%F0%9F%91%8B%2C+I'm+S+N+M+Rayhan;Software+Engineer+%26+Problem+Solver;Building+Scalable+Web+%26+Cloud+Solutions;Architecting+Clean%2C+High-Performance+Code;Always+Exploring+Modern+Tech+Stacks" alt="Typing SVG" />
   </a>
   <br />
 
   <!-- Metric Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=snmrayhan-dev&label=Profile%20Views&color=0969da&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=snmrayhan-dev&label=Profile%20Views&color=61afef&style=flat-square" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Experience-Software_Engineering-blue?style=flat-square" alt="Experience" />
     <img src="https://img.shields.io/badge/Open_To-Collaborations_%26_Opportunities-brightgreen?style=flat-square" alt="Opportunities" />
   </p>
@@ -22,9 +22,7 @@
 
 ### 🌟 About Me & Engineering Vision
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<img align="right" width="360" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coding Animation" />
 
 Hello! I am a passionate **Software Engineer** dedicated to building clean, scalable, and high-performance software systems. I thrive at the intersection of modern frontend elegance and powerful backend architecture.
 
@@ -34,12 +32,7 @@ Hello! I am a passionate **Software Engineer** dedicated to building clean, scal
 - ⚡ **Hobbies:** Tech blogging, exploring open-source tools, and experimenting with UI/UX.
 - 📫 **Reach Out:** Always open for discussions, code reviews, and networking!
 
-</td>
-<td width="40%" align="center" valign="middle">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Laptop Coding Animation" />
-</td>
-</tr>
-</table>
+<br clear="right" />
 
 ---
 
@@ -136,11 +129,11 @@ Hello! I am a passionate **Software Engineer** dedicated to building clean, scal
 
 <div align="center">
   <a href="https://github.com/snmrayhan-dev">
-    <img src="https://streak-stats.demolab.com?user=snmrayhan-dev&theme=clean-light&border_radius=10&stroke=d0d7de&background=ffffff&ring=0969da&fire=0969da&currStreakNum=0969da&sideNums=1f2328&sideLabels=57606a&currStreakLabel=0969da&dates=57606a" height="200" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=snmrayhan-dev&theme=tokyonight&hide_border=true&stroke=61afef&background=1e222a&ring=61afef&fire=e06c75&currStreakLabel=61afef" height="200" alt="GitHub Streak" />
   </a>
   <br /><br />
   <a href="https://github.com/snmrayhan-dev">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=snmrayhan-dev&theme=github-light&hide_border=false&border_radius=10&bg_color=ffffff&color=0969da&line=0969da&point=2ea44f" width="95%" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=snmrayhan-dev&theme=tokyo-night&hide_border=true&area=true&bg_color=1e222a&color=61afef&line=61afef&point=e06c75" width="95%" alt="Contribution Graph" />
   </a>
 </div>
 
