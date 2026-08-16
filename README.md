@@ -125,7 +125,13 @@ Hello! I am a passionate **Software Engineer** dedicated to building clean, scal
 
 ---
 
-### 📈 GitHub Contribution Activity Wave
+### 📈 GitHub Contribution Streak & Activity Wave
+
+<p align="center">
+  <a href="https://github.com/snmrayhan-dev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=snmrayhan-dev&theme=tokyonight&hide_border=true&stroke=61afef&background=1e222a&ring=61afef&fire=e06c75&currStreakLabel=61afef" height="195" alt="GitHub Streak" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/snmrayhan-dev">
