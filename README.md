@@ -1,18 +1,18 @@
 <!-- Header Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=220&section=header&text=S%20N%20M%20Rayhan&fontSize=48&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=230&section=header&text=S%20N%20M%20Rayhan&fontSize=52&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=20&descAlignY=62&descAlign=50&fontColor=ffffff&animation=twinkling" width="100%" alt="Header" />
 </p>
 
 <!-- Dynamic Typing SVG Headline -->
 <div align="center">
   <a href="https://github.com/snmrayhan-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=61AFEF&center=true&vCenter=true&width=580&lines=Hi+there+%F0%9F%91%8B%2C+I'm+S+N+M+Rayhan;Software+Engineer+%26+Problem+Solver;Building+Scalable+Web+%26+Cloud+Solutions;Architecting+Clean%2C+High-Performance+Code;Always+Exploring+Modern+Tech+Stacks" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=0969DA&center=true&vCenter=true&width=580&lines=Hi+there+%F0%9F%91%8B%2C+I'm+S+N+M+Rayhan;Software+Engineer+%26+Problem+Solver;Building+Scalable+Web+%26+Cloud+Solutions;Architecting+Clean%2C+High-Performance+Code;Always+Exploring+Modern+Tech+Stacks" alt="Typing SVG" />
   </a>
   <br />
 
   <!-- Metric Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=snmrayhan-dev&label=Profile%20Views&color=61afef&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=snmrayhan-dev&label=Profile%20Views&color=0969da&style=flat-square" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Experience-Software_Engineering-blue?style=flat-square" alt="Experience" />
     <img src="https://img.shields.io/badge/Open_To-Collaborations_%26_Opportunities-brightgreen?style=flat-square" alt="Opportunities" />
   </p>
@@ -161,5 +161,5 @@ Hello! I am a passionate **Software Engineer** dedicated to building clean, scal
 
 <!-- Footer Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=120&section=footer" width="100%" alt="Footer" />
 </p>
