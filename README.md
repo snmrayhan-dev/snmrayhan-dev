@@ -127,17 +127,15 @@ Hello! I am a passionate **Software Engineer** dedicated to building clean, scal
 
 ### 📈 GitHub Contribution Streak & Activity Wave
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/snmrayhan-dev">
-    <img src="https://streak-stats.demolab.com?user=snmrayhan-dev&theme=tokyonight&hide_border=true&stroke=61afef&background=1e222a&ring=61afef&fire=e06c75&currStreakLabel=61afef" height="195" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=snmrayhan-dev&theme=tokyonight&hide_border=true&stroke=61afef&background=1e222a&ring=61afef&fire=e06c75&currStreakLabel=61afef" height="200" alt="GitHub Streak" />
   </a>
-</p>
-
-<p align="center">
+  <br /><br />
   <a href="https://github.com/snmrayhan-dev">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=snmrayhan-dev&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=snmrayhan-dev&theme=tokyo-night&hide_border=true&area=true&bg_color=1e222a&color=61afef&line=61afef&point=e06c75" width="95%" alt="Contribution Graph" />
   </a>
-</p>
+</div>
 
 ---
 
