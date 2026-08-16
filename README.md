@@ -125,19 +125,11 @@ Hello! I am a passionate **Software Engineer** dedicated to building clean, scal
 
 ---
 
-### 📈 GitHub Contribution Activity & Velocity
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Total_Contributions-45+_in_2026-00F5D4?style=for-the-badge&logo=github&logoColor=black" alt="Contributions" />
-  <img src="https://img.shields.io/badge/Daily_Streak-Active_🔥-FF5E7E?style=for-the-badge&logo=git&logoColor=white" alt="Daily Streak" />
-  <img src="https://img.shields.io/badge/Commit_Velocity-High-61AFEF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Velocity" />
-</div>
-
-<br />
+### 📈 GitHub Contribution Streak
 
 <p align="center">
   <a href="https://github.com/snmrayhan-dev">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=snmrayhan-dev&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=snmrayhan-dev&theme=tokyonight&hide_border=true&stroke=61afef&background=1e222a&ring=61afef&fire=e06c75&currStreakLabel=61afef" height="195" alt="GitHub Streak" />
   </a>
 </p>
 
