@@ -22,7 +22,9 @@
 
 ### 🌟 About Me & Engineering Vision
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coding Animation" />
+<table>
+<tr>
+<td width="60%" valign="top">
 
 Hello! I am a passionate **Software Engineer** dedicated to building clean, scalable, and high-performance software systems. I thrive at the intersection of modern frontend elegance and powerful backend architecture.
 
@@ -32,7 +34,12 @@ Hello! I am a passionate **Software Engineer** dedicated to building clean, scal
 - ⚡ **Hobbies:** Tech blogging, exploring open-source tools, and experimenting with UI/UX.
 - 📫 **Reach Out:** Always open for discussions, code reviews, and networking!
 
-<br clear="right" />
+</td>
+<td width="40%" align="center" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Laptop Coding Animation" />
+</td>
+</tr>
+</table>
 
 ---
 
