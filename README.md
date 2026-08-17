@@ -129,7 +129,7 @@ Hello! I am a passionate **Software Engineer** dedicated to building clean, scal
 
 <div align="center">
   <a href="https://github.com/snmrayhan-dev">
-    <img src="https://streak-stats.demolab.com?user=snmrayhan-dev&theme=clean-light&border_radius=10&stroke=d0d7de&background=ffffff&ring=0969da&fire=0969da&currStreakNum=0969da&sideNums=1f2328&sideLabels=57606a&currStreakLabel=0969da&dates=57606a" height="200" alt="GitHub Streak" />
+    <img src="https://raw.githubusercontent.com/snmrayhan-dev/snmrayhan-dev/main/profile-streak.svg" height="200" alt="GitHub Streak" />
   </a>
   <br /><br />
   <a href="https://github.com/snmrayhan-dev">
