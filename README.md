@@ -22,7 +22,7 @@
 
 ### 🌟 About Me & Engineering Vision
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/media/coding.gif" alt="Coding Animation" />
+<img align="right" width="360" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coding Animation" />
 
 Hello! I am a passionate **Software Engineer** dedicated to building clean, scalable, and high-performance software systems. I thrive at the intersection of modern frontend elegance and powerful backend architecture.
 
