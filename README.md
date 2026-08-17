@@ -128,10 +128,10 @@ Hello! I am a passionate **Software Engineer** dedicated to building clean, scal
 ### 📈 GitHub Contribution Streak & Activity Wave
 
 <div align="center">
-  <a href="https://github.com/snmrayhan-dev">
-    <img src="https://raw.githubusercontent.com/snmrayhan-dev/snmrayhan-dev/main/profile-streak.svg" height="200" alt="GitHub Streak" />
-  </a>
-  <br /><br />
+  <p align="center">
+    <img src="./profile-streak.svg" height="195" alt="GitHub Streak" />
+  </p>
+  <br />
   <a href="https://github.com/snmrayhan-dev">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=snmrayhan-dev&theme=github-light&hide_border=false&border_radius=10&bg_color=ffffff&color=0969da&line=0969da&point=2ea44f" width="95%" alt="Contribution Graph" />
   </a>
