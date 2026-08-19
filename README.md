@@ -159,6 +159,17 @@ Hello! I am a passionate **Software Engineer** dedicated to building clean, scal
 
 </div>
 
+---
+
+<!-- Copyright & Legal Protection Footer -->
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Designed_%26_Engineered_by-S_N_M_Rayhan-0052D4?style=flat-square&logo=github&logoColor=white" alt="Author" />
+    <img src="https://img.shields.io/badge/Copyright-2026_All_Rights_Reserved-1f2328?style=flat-square" alt="Copyright" />
+  </p>
+  <p><sub>🔒 <b>Proprietary Portfolio Notice:</b> &copy; 2026 <b>S N M Rayhan</b>. All rights reserved. Unauthorized duplication, modification, or commercial redistribution without prior written consent is strictly prohibited.</sub></p>
+</div>
+
 <!-- Footer Wave Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=120&section=footer" width="100%" alt="Footer" />
