@@ -22,7 +22,7 @@
 
 ### 🌟 About Me & Engineering Vision
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coding Animation" />
+<img align="right" width="360" src="./coder.gif" alt="Coding Animation" />
 
 Hello! I am a passionate **Software Engineer** dedicated to building clean, scalable, and high-performance software systems. I thrive at the intersection of modern frontend elegance and powerful backend architecture.
 
@@ -157,6 +157,17 @@ Hello! I am a passionate **Software Engineer** dedicated to building clean, scal
 
 <p><i>💡 "The only way to do great work is to love what you do."</i></p>
 
+</div>
+
+---
+
+<!-- Copyright & Legal Protection Footer -->
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Designed_%26_Engineered_by-S_N_M_Rayhan-0052D4?style=flat-square&logo=github&logoColor=white" alt="Author" />
+    <img src="https://img.shields.io/badge/Copyright-2026_All_Rights_Reserved-1f2328?style=flat-square" alt="Copyright" />
+  </p>
+  <p><sub>🔒 <b>Proprietary Portfolio Notice:</b> &copy; 2026 <b>S N M Rayhan</b>. All rights reserved. Unauthorized duplication, modification, or commercial redistribution without prior written consent is strictly prohibited.</sub></p>
 </div>
 
 <!-- Footer Wave Banner -->
